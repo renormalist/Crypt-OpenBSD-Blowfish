@@ -1,0 +1,15 @@
+.*
+Blowfish.bs
+Blowfish.c
+Blowfish.o
+!.gitignore
+!.perlcriticrc
+MYMETA.json
+MYMETA.yml
+Makefile
+Makefile.old
+blib
+pm_to_blib
+Crypt-OpenBSD-Blowfish-*
+Debian_CPANTS.txt
+MANIFEST.bak
